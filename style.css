@@ -1,0 +1,45 @@
+body {
+    background-color: bisque;
+}
+.container {
+    margin: 200px 0px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    width: 350px;
+    height: 350px;
+    border-radius: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 100px auto;
+  }
+  .timer {
+    background-color: rgba(128, 128, 128, 0.3);
+    margin-top: 60px;
+    width: 230px;
+    text-align: center;
+    margin-left: 40px;
+    padding: 20px;
+    border-width: 0px;
+  }
+  .button {
+    margin-top: 30px;
+    text-align: center;
+  }
+button {
+    width: 80px;
+    height: 50px;
+    cursor: pointer;
+    margin: 10px;
+    border-width: 0px;
+    font-size: 16px;
+}
+button:active {
+    opacity: 0.5;
+}
+.start {
+    background-color: green;
+}
+.stop {
+    background-color:red ;
+}
+.reset {
+    background-color: rgb(255, 217, 0);
+}
