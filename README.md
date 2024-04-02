@@ -1,0 +1,3 @@
+-This is a JS-Stop-Watch-Project file .
+-Language uses are HTML , CSS , JS , Bootstrap
+-You can use this Stop-Watch like real Stop-Watch almost perfectly.
